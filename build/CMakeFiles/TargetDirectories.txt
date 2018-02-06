@@ -1,0 +1,9 @@
+/home/ubuntu/xmr-stak/build/CMakeFiles/install.dir
+/home/ubuntu/xmr-stak/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/xmr-stak/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/xmr-stak/build/CMakeFiles/xmr-stak-c.dir
+/home/ubuntu/xmr-stak/build/CMakeFiles/xmr-stak-backend.dir
+/home/ubuntu/xmr-stak/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/xmr-stak/build/CMakeFiles/xmr-stak.dir
+/home/ubuntu/xmr-stak/build/CMakeFiles/install/local.dir
+/home/ubuntu/xmr-stak/build/CMakeFiles/install/strip.dir
